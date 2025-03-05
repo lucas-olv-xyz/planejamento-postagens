@@ -131,11 +131,11 @@ Acesse: `http://localhost:3000/`
 
 ## 📌 Funcionalidades Implementadas
 
-✅ Registro e login de usuários com JWT
-✅ Criar, editar e excluir postagens
-✅ Proteção de rotas com autenticação
-✅ Interface interativa com React
-✅ Feedbacks visuais de carregamento e erros
+- ✅ Registro e login de usuários com JWT
+- ✅ Criar, editar e excluir postagens
+- ✅ Proteção de rotas com autenticação
+- ✅ Interface interativa com React
+- ✅ Feedbacks visuais de carregamento e erros
 
 ---
 
