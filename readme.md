@@ -150,9 +150,9 @@ Acesse: `http://localhost:3000/`
 ## 📌 Autor
 
 **Seu Nome**  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-📧 Email: seuemail@email.com
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-olvra/)  
+📧 Email: f.nrirdesign@gmail.com
 
 ---
 
-### **Feito com 💙 por [Seu Nome]**
+### **Feito com 💙 por Lucas Oliveira**
