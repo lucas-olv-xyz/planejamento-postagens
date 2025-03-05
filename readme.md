@@ -149,7 +149,7 @@ Acesse: `http://localhost:3000/`
 
 ## 📌 Autor
 
-**Seu Nome**  
+**Lucas Oliveira**  
 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-olvra/)  
 📧 Email: f.nrirdesign@gmail.com
 
