@@ -141,9 +141,9 @@ Acesse: `http://localhost:3000/`
 
 ## 📌 Melhorias Futuras
 
-🔹 Responsividade para mobile
-🔹 Upload de imagens para posts
-🔹 Paginação de postagens
+- 🔹 Responsividade para mobile
+- 🔹 Upload de imagens para posts
+- 🔹 Paginação de postagens
 
 ---
 
